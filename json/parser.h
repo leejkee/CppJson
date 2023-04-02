@@ -4,6 +4,7 @@ using namespace std;
 #include "json.h"
 namespace yazi{
 namespace json{
+
 class Parser
 {
 public:

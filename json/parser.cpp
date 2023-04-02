@@ -2,6 +2,7 @@
 #include <stdexcept>
 #include <cstdlib>
 using namespace yazi::json;
+
 Parser::Parser() : m_str(""), m_idx(0)
 {
 }
